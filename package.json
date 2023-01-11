@@ -21,7 +21,7 @@
     "gatsby-plugin-reason": "^2.1.0",
     "gatsby-source-filesystem": "^2.1.40",
     "gatsby-transformer-json": "^2.2.27",
-    "gatsby-transformer-remark": "^2.6.39",
+    "gatsby-transformer-remark": "^5.25.1",
     "normalize-css": "^2.3.1",
     "ppx-deriving": "^44.1.1",
     "react": "^16.12.0",
